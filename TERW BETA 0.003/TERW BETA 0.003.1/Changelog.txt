@@ -1,0 +1,2 @@
+* Fixed Not Earning Cash When Player Destroys Speeding Robot
+* Fixed Not Earning Points When Player Destroys Speeding Robot
