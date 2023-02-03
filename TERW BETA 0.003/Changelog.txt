@@ -1,0 +1,2 @@
+* Fixed Pause Button Closing Tab
++ Added Smaller Green Flag Button
