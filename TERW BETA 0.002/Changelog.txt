@@ -1,4 +1,2 @@
-* Fixed Not Earning Any Cash When A Speeding Robot Is Destroyed
-* Fixed Not Earning Any Points When A Speeding Robot Is Destroyed
 + Added Pause Button
 + Added Fullscreen Button
